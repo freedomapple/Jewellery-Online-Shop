@@ -1,2 +1,2 @@
-# freedom
-I have good knowledge of java, jsp, html, mysql and nodejs .
+# Jewellery Online Shop
+I have used skills like Node js, Express js, MongoDB, HTML and CSS.
